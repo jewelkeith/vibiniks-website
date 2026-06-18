@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Vibiniks",
     "description": "",
-    "home_page_url": "https://jewelkeith.github.io/vibiniks-website",
-    "feed_url": "https://jewelkeith.github.io/vibiniks-website/feed.json",
+    "home_page_url": "https://vibiniks.com",
+    "feed_url": "https://vibiniks.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jewel"
     },
     "items": [
         {
-            "id": "https://jewelkeith.github.io/vibiniks-website/blog-post-1.html",
-            "url": "https://jewelkeith.github.io/vibiniks-website/blog-post-1.html",
+            "id": "https://vibiniks.com/blog-post-1.html",
+            "url": "https://vibiniks.com/blog-post-1.html",
             "title": "Blog Post 1",
             "summary": "This is a sample blog post.",
             "content_html": "<p>This is a sample blog post.</p>",

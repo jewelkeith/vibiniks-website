@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Vibiniks</title>
-    <link href="https://jewelkeith.github.io/vibiniks-website/feed.xml" rel="self" />
-    <link href="https://jewelkeith.github.io/vibiniks-website" />
+    <link href="https://vibiniks.com/feed.xml" rel="self" />
+    <link href="https://vibiniks.com" />
     <updated>2026-06-19T00:00:06+08:00</updated>
     <author>
         <name>Jewel</name>
     </author>
-    <id>https://jewelkeith.github.io/vibiniks-website</id>
+    <id>https://vibiniks.com</id>
 
     <entry>
         <title>Blog Post 1</title>
         <author>
             <name>Jewel</name>
         </author>
-        <link href="https://jewelkeith.github.io/vibiniks-website/blog-post-1.html"/>
-        <id>https://jewelkeith.github.io/vibiniks-website/blog-post-1.html</id>
+        <link href="https://vibiniks.com/blog-post-1.html"/>
+        <id>https://vibiniks.com/blog-post-1.html</id>
 
         <updated>2026-06-18T23:59:41+08:00</updated>
             <summary type="html">
