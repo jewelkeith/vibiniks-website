@@ -5,23 +5,112 @@
     "home_page_url": "https://vibiniks.com",
     "feed_url": "https://vibiniks.com/feed.json",
     "user_comment": "",
+    "icon": "https://vibiniks.com/media/website/Logo-Wordform-Dark-Vibiniks.png",
     "author": {
         "name": "Jewel"
     },
     "items": [
         {
-            "id": "https://vibiniks.com/blog-post-1.html",
-            "url": "https://vibiniks.com/blog-post-1.html",
-            "title": "Blog Post 1",
+            "id": "https://vibiniks.com/blog-post-6/",
+            "url": "https://vibiniks.com/blog-post-6/",
+            "title": "Blog Post 6",
             "summary": "This is a sample blog post.",
             "content_html": "<p>This is a sample blog post.</p>",
+            "image": "https://vibiniks.com/media/posts/12/Blog-Sample-Cover.png",
             "author": {
                 "name": "Jewel"
             },
             "tags": [
+                   "Templates",
+                   "Dev Notes"
+            ],
+            "date_published": "2026-06-19T02:54:38+08:00",
+            "date_modified": "2026-06-19T03:19:36+08:00"
+        },
+        {
+            "id": "https://vibiniks.com/blog-post-5/",
+            "url": "https://vibiniks.com/blog-post-5/",
+            "title": "Blog Post 5",
+            "summary": "This is a sample blog post.",
+            "content_html": "<p>This is a sample blog post.</p>",
+            "image": "https://vibiniks.com/media/posts/11/Blog-Sample-Cover.png",
+            "author": {
+                "name": "Jewel"
+            },
+            "tags": [
+                   "Templates",
+                   "Dev Notes"
+            ],
+            "date_published": "2026-06-19T02:54:34+08:00",
+            "date_modified": "2026-06-19T03:19:27+08:00"
+        },
+        {
+            "id": "https://vibiniks.com/blog-post-4/",
+            "url": "https://vibiniks.com/blog-post-4/",
+            "title": "Blog Post 4",
+            "summary": "This is a sample blog post.",
+            "content_html": "<p>This is a sample blog post.</p>",
+            "image": "https://vibiniks.com/media/posts/10/Blog-Sample-Cover.png",
+            "author": {
+                "name": "Jewel"
+            },
+            "tags": [
+                   "Dev Notes",
+                   "Dev Logs"
+            ],
+            "date_published": "2026-06-19T02:54:32+08:00",
+            "date_modified": "2026-06-19T03:19:19+08:00"
+        },
+        {
+            "id": "https://vibiniks.com/blog-post-3/",
+            "url": "https://vibiniks.com/blog-post-3/",
+            "title": "Blog Post 3",
+            "summary": "This is a sample blog post.",
+            "content_html": "<p>This is a sample blog post.</p>",
+            "image": "https://vibiniks.com/media/posts/9/Blog-Sample-Cover.png",
+            "author": {
+                "name": "Jewel"
+            },
+            "tags": [
+                   "Dev Notes",
+                   "Dev Logs"
+            ],
+            "date_published": "2026-06-19T02:54:28+08:00",
+            "date_modified": "2026-06-19T03:19:10+08:00"
+        },
+        {
+            "id": "https://vibiniks.com/blog-post-2/",
+            "url": "https://vibiniks.com/blog-post-2/",
+            "title": "Blog Post 2",
+            "summary": "This is a sample blog post.",
+            "content_html": "<p>This is a sample blog post.</p>",
+            "image": "https://vibiniks.com/media/posts/8/Blog-Sample-Cover.png",
+            "author": {
+                "name": "Jewel"
+            },
+            "tags": [
+                   "Dev Notes",
+                   "Dev Logs"
+            ],
+            "date_published": "2026-06-19T02:54:25+08:00",
+            "date_modified": "2026-06-19T03:18:59+08:00"
+        },
+        {
+            "id": "https://vibiniks.com/blog-post-1/",
+            "url": "https://vibiniks.com/blog-post-1/",
+            "title": "Blog Post 1",
+            "summary": "This is a sample blog post.",
+            "content_html": "<p>This is a sample blog post.</p>",
+            "image": "https://vibiniks.com/media/posts/1/Blog-Sample-Cover.png",
+            "author": {
+                "name": "Jewel"
+            },
+            "tags": [
+                   "Dev Notes",
+                   "Dev Logs"
             ],
             "date_published": "2026-06-18T23:59:41+08:00",
-            "date_modified": "2026-06-19T00:00:06+08:00"
+            "date_modified": "2026-06-19T03:18:50+08:00"
         }
     ]
 }

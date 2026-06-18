@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://vibiniks.com/sitemap.xml
+Disallow: /

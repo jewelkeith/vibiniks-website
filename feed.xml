@@ -3,28 +3,158 @@
     <title>Vibiniks</title>
     <link href="https://vibiniks.com/feed.xml" rel="self" />
     <link href="https://vibiniks.com" />
-    <updated>2026-06-19T00:00:06+08:00</updated>
+    <updated>2026-06-19T03:19:36+08:00</updated>
     <author>
         <name>Jewel</name>
     </author>
     <id>https://vibiniks.com</id>
 
     <entry>
-        <title>Blog Post 1</title>
+        <title>Blog Post 6</title>
         <author>
             <name>Jewel</name>
         </author>
-        <link href="https://vibiniks.com/blog-post-1.html"/>
-        <id>https://vibiniks.com/blog-post-1.html</id>
+        <link href="https://vibiniks.com/blog-post-6/"/>
+        <id>https://vibiniks.com/blog-post-6/</id>
+        <media:content url="https://vibiniks.com/media/posts/12/Blog-Sample-Cover.png" medium="image" />
+            <category term="Templates"/>
+            <category term="Dev Notes"/>
 
-        <updated>2026-06-18T23:59:41+08:00</updated>
+        <updated>2026-06-19T02:54:38+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://vibiniks.com/media/posts/12/Blog-Sample-Cover.png" alt="" />
                     This is a sample blog post.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://vibiniks.com/media/posts/12/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
+                <p>This is a sample blog post.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blog Post 5</title>
+        <author>
+            <name>Jewel</name>
+        </author>
+        <link href="https://vibiniks.com/blog-post-5/"/>
+        <id>https://vibiniks.com/blog-post-5/</id>
+        <media:content url="https://vibiniks.com/media/posts/11/Blog-Sample-Cover.png" medium="image" />
+            <category term="Templates"/>
+            <category term="Dev Notes"/>
+
+        <updated>2026-06-19T02:54:34+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://vibiniks.com/media/posts/11/Blog-Sample-Cover.png" alt="" />
+                    This is a sample blog post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vibiniks.com/media/posts/11/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
+                <p>This is a sample blog post.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blog Post 4</title>
+        <author>
+            <name>Jewel</name>
+        </author>
+        <link href="https://vibiniks.com/blog-post-4/"/>
+        <id>https://vibiniks.com/blog-post-4/</id>
+        <media:content url="https://vibiniks.com/media/posts/10/Blog-Sample-Cover.png" medium="image" />
+            <category term="Dev Notes"/>
+            <category term="Dev Logs"/>
+
+        <updated>2026-06-19T02:54:32+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://vibiniks.com/media/posts/10/Blog-Sample-Cover.png" alt="" />
+                    This is a sample blog post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vibiniks.com/media/posts/10/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
+                <p>This is a sample blog post.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blog Post 3</title>
+        <author>
+            <name>Jewel</name>
+        </author>
+        <link href="https://vibiniks.com/blog-post-3/"/>
+        <id>https://vibiniks.com/blog-post-3/</id>
+        <media:content url="https://vibiniks.com/media/posts/9/Blog-Sample-Cover.png" medium="image" />
+            <category term="Dev Notes"/>
+            <category term="Dev Logs"/>
+
+        <updated>2026-06-19T02:54:28+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://vibiniks.com/media/posts/9/Blog-Sample-Cover.png" alt="" />
+                    This is a sample blog post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vibiniks.com/media/posts/9/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
+                <p>This is a sample blog post.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blog Post 2</title>
+        <author>
+            <name>Jewel</name>
+        </author>
+        <link href="https://vibiniks.com/blog-post-2/"/>
+        <id>https://vibiniks.com/blog-post-2/</id>
+        <media:content url="https://vibiniks.com/media/posts/8/Blog-Sample-Cover.png" medium="image" />
+            <category term="Dev Notes"/>
+            <category term="Dev Logs"/>
+
+        <updated>2026-06-19T02:54:25+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://vibiniks.com/media/posts/8/Blog-Sample-Cover.png" alt="" />
+                    This is a sample blog post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vibiniks.com/media/posts/8/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
+                <p>This is a sample blog post.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blog Post 1</title>
+        <author>
+            <name>Jewel</name>
+        </author>
+        <link href="https://vibiniks.com/blog-post-1/"/>
+        <id>https://vibiniks.com/blog-post-1/</id>
+        <media:content url="https://vibiniks.com/media/posts/1/Blog-Sample-Cover.png" medium="image" />
+            <category term="Dev Notes"/>
+            <category term="Dev Logs"/>
+
+        <updated>2026-06-18T23:59:41+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://vibiniks.com/media/posts/1/Blog-Sample-Cover.png" alt="" />
+                    This is a sample blog post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vibiniks.com/media/posts/1/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
                 <p>This is a sample blog post.</p>
             ]]>
         </content>
