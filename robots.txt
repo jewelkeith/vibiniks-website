@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jewelkeith.github.io/vibiniks-website/sitemap.xml

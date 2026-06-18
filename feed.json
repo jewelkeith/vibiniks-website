@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vibiniks",
+    "description": "",
+    "home_page_url": "https://jewelkeith.github.io/vibiniks-website",
+    "feed_url": "https://jewelkeith.github.io/vibiniks-website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jewel"
+    },
+    "items": [
+        {
+            "id": "https://jewelkeith.github.io/vibiniks-website/blog-post-1.html",
+            "url": "https://jewelkeith.github.io/vibiniks-website/blog-post-1.html",
+            "title": "Blog Post 1",
+            "summary": "This is a sample blog post.",
+            "content_html": "<p>This is a sample blog post.</p>",
+            "author": {
+                "name": "Jewel"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-18T23:59:41+08:00",
+            "date_modified": "2026-06-19T00:00:06+08:00"
+        }
+    ]
+}
