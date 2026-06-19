@@ -3,33 +3,31 @@
     <title>Vibiniks</title>
     <link href="https://vibiniks.com/feed.xml" rel="self" />
     <link href="https://vibiniks.com" />
-    <updated>2026-06-19T14:57:08+08:00</updated>
+    <updated>2026-06-20T01:01:47+08:00</updated>
     <author>
         <name>Jewel</name>
     </author>
     <id>https://vibiniks.com</id>
 
     <entry>
-        <title>Blog Post 6</title>
+        <title>Blog Article Title 6</title>
         <author>
             <name>Jewel</name>
         </author>
-        <link href="https://vibiniks.com/blog-post-6/"/>
-        <id>https://vibiniks.com/blog-post-6/</id>
-        <media:content url="https://vibiniks.com/media/posts/12/Blog-Sample-Cover.png" medium="image" />
-            <category term="Templates"/>
-            <category term="Dev Notes"/>
+        <link href="https://vibiniks.com/blog-article-title-6/"/>
+        <id>https://vibiniks.com/blog-article-title-6/</id>
+        <media:content url="https://vibiniks.com/media/posts/18/Blog-Sample-Cover.png" medium="image" />
 
-        <updated>2026-06-19T02:54:38+08:00</updated>
+        <updated>2026-06-20T01:01:40+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://vibiniks.com/media/posts/12/Blog-Sample-Cover.png" alt="" />
+                        <img src="https://vibiniks.com/media/posts/18/Blog-Sample-Cover.png" alt="" />
                     Why do we use it? Lorem Ipsum is simply dummy text of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://vibiniks.com/media/posts/12/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://vibiniks.com/media/posts/18/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
                 <h1>Why do we use it?</h1>
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.</p>
 <hr>
@@ -45,61 +43,31 @@
         </content>
     </entry>
     <entry>
-        <title>Blog Post 5</title>
+        <title>Blog Article Title 5</title>
         <author>
             <name>Jewel</name>
         </author>
-        <link href="https://vibiniks.com/blog-post-5/"/>
-        <id>https://vibiniks.com/blog-post-5/</id>
-        <media:content url="https://vibiniks.com/media/posts/11/Blog-Sample-Cover.png" medium="image" />
-            <category term="Templates"/>
-            <category term="Dev Notes"/>
+        <link href="https://vibiniks.com/blog-article-title-5/"/>
+        <id>https://vibiniks.com/blog-article-title-5/</id>
+        <media:content url="https://vibiniks.com/media/posts/17/Blog-Sample-Cover.png" medium="image" />
 
-        <updated>2026-06-19T02:54:34+08:00</updated>
+        <updated>2026-06-20T01:01:31+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://vibiniks.com/media/posts/11/Blog-Sample-Cover.png" alt="" />
-                    Introduction Lorem Ipsum is simply dummy text of the printing and typesetting&hellip;
+                        <img src="https://vibiniks.com/media/posts/17/Blog-Sample-Cover.png" alt="" />
+                    Why do we use it? Lorem Ipsum is simply dummy text of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://vibiniks.com/media/posts/11/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
-                <h1>Introduction</h1>
+                    <p><img src="https://vibiniks.com/media/posts/17/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
+                <h1>Why do we use it?</h1>
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.</p>
 <hr>
-<h2>Why do we use it?</h2>
+<h1>Why do we use it?</h1>
 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
 <hr>
-<h1>Conclusion</h1>
-<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Blog Post 4</title>
-        <author>
-            <name>Jewel</name>
-        </author>
-        <link href="https://vibiniks.com/blog-post-4/"/>
-        <id>https://vibiniks.com/blog-post-4/</id>
-        <media:content url="https://vibiniks.com/media/posts/10/Blog-Sample-Cover.png" medium="image" />
-            <category term="Dev Notes"/>
-            <category term="Dev Logs"/>
-
-        <updated>2026-06-19T02:54:32+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://vibiniks.com/media/posts/10/Blog-Sample-Cover.png" alt="" />
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://vibiniks.com/media/posts/10/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.</p>
-<hr>
-<h1>Why do we use it?</h1>
+<h1>Why do we use it again?</h1>
 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
 <hr>
 <h1>Where can I get some?</h1>
@@ -108,29 +76,31 @@
         </content>
     </entry>
     <entry>
-        <title>Blog Post 3</title>
+        <title>Blog Article Title 4</title>
         <author>
             <name>Jewel</name>
         </author>
-        <link href="https://vibiniks.com/blog-post-3/"/>
-        <id>https://vibiniks.com/blog-post-3/</id>
-        <media:content url="https://vibiniks.com/media/posts/9/Blog-Sample-Cover.png" medium="image" />
-            <category term="Dev Notes"/>
-            <category term="Dev Logs"/>
+        <link href="https://vibiniks.com/blog-article-title-4/"/>
+        <id>https://vibiniks.com/blog-article-title-4/</id>
+        <media:content url="https://vibiniks.com/media/posts/16/Blog-Sample-Cover.png" medium="image" />
 
-        <updated>2026-06-19T02:54:28+08:00</updated>
+        <updated>2026-06-20T01:01:20+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://vibiniks.com/media/posts/9/Blog-Sample-Cover.png" alt="" />
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        <img src="https://vibiniks.com/media/posts/16/Blog-Sample-Cover.png" alt="" />
+                    Why do we use it? Lorem Ipsum is simply dummy text of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://vibiniks.com/media/posts/9/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.</p>
+                    <p><img src="https://vibiniks.com/media/posts/16/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
+                <h1>Why do we use it?</h1>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.</p>
 <hr>
 <h1>Why do we use it?</h1>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<hr>
+<h1>Why do we use it again?</h1>
 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
 <hr>
 <h1>Where can I get some?</h1>
@@ -139,29 +109,31 @@
         </content>
     </entry>
     <entry>
-        <title>Blog Post 2</title>
+        <title>Blog Article Title 3</title>
         <author>
             <name>Jewel</name>
         </author>
-        <link href="https://vibiniks.com/blog-post-2/"/>
-        <id>https://vibiniks.com/blog-post-2/</id>
-        <media:content url="https://vibiniks.com/media/posts/8/Blog-Sample-Cover.png" medium="image" />
-            <category term="Dev Notes"/>
-            <category term="Dev Logs"/>
+        <link href="https://vibiniks.com/blog-article-title-3/"/>
+        <id>https://vibiniks.com/blog-article-title-3/</id>
+        <media:content url="https://vibiniks.com/media/posts/15/Blog-Sample-Cover.png" medium="image" />
 
-        <updated>2026-06-19T02:54:25+08:00</updated>
+        <updated>2026-06-20T01:01:09+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://vibiniks.com/media/posts/8/Blog-Sample-Cover.png" alt="" />
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        <img src="https://vibiniks.com/media/posts/15/Blog-Sample-Cover.png" alt="" />
+                    Why do we use it? Lorem Ipsum is simply dummy text of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://vibiniks.com/media/posts/8/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.</p>
+                    <p><img src="https://vibiniks.com/media/posts/15/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
+                <h1>Why do we use it?</h1>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.</p>
 <hr>
 <h1>Why do we use it?</h1>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<hr>
+<h1>Why do we use it again?</h1>
 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
 <hr>
 <h1>Where can I get some?</h1>
@@ -170,29 +142,64 @@
         </content>
     </entry>
     <entry>
-        <title>Blog Post 1</title>
+        <title>Blog Article Title 2</title>
         <author>
             <name>Jewel</name>
         </author>
-        <link href="https://vibiniks.com/blog-post-1/"/>
-        <id>https://vibiniks.com/blog-post-1/</id>
-        <media:content url="https://vibiniks.com/media/posts/1/Blog-Sample-Cover.png" medium="image" />
-            <category term="Dev Notes"/>
-            <category term="Dev Logs"/>
+        <link href="https://vibiniks.com/blog-article-title-2/"/>
+        <id>https://vibiniks.com/blog-article-title-2/</id>
+        <media:content url="https://vibiniks.com/media/posts/14/Blog-Sample-Cover.png" medium="image" />
 
-        <updated>2026-06-18T23:59:41+08:00</updated>
+        <updated>2026-06-20T01:00:52+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://vibiniks.com/media/posts/1/Blog-Sample-Cover.png" alt="" />
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        <img src="https://vibiniks.com/media/posts/14/Blog-Sample-Cover.png" alt="" />
+                    Why do we use it? Lorem Ipsum is simply dummy text of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://vibiniks.com/media/posts/1/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.</p>
+                    <p><img src="https://vibiniks.com/media/posts/14/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
+                <h1>Why do we use it?</h1>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.</p>
 <hr>
 <h1>Why do we use it?</h1>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<hr>
+<h1>Why do we use it again?</h1>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<hr>
+<h1>Where can I get some?</h1>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blog Article Title 1</title>
+        <author>
+            <name>Jewel</name>
+        </author>
+        <link href="https://vibiniks.com/blog-article-title-1/"/>
+        <id>https://vibiniks.com/blog-article-title-1/</id>
+        <media:content url="https://vibiniks.com/media/posts/13/Blog-Sample-Cover.png" medium="image" />
+
+        <updated>2026-06-20T01:00:26+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://vibiniks.com/media/posts/13/Blog-Sample-Cover.png" alt="" />
+                    Why do we use it? Lorem Ipsum is simply dummy text of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vibiniks.com/media/posts/13/Blog-Sample-Cover.png" class="type:primaryImage" alt="" /></p>
+                <h1>Why do we use it?</h1>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.</p>
+<hr>
+<h1>Why do we use it?</h1>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<hr>
+<h1>Why do we use it again?</h1>
 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
 <hr>
 <h1>Where can I get some?</h1>
